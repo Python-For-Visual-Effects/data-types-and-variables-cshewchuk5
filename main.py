@@ -9,6 +9,7 @@ Answer the following questions.
 print(64+32) 
 #test
 
+
 # 2.- Do the same as the question one but this time use variables instead of 
 # numbers.
 
