@@ -26,6 +26,7 @@ print("My name is " + name + ", I am " + str(age) + " and I only have $" + str(m
 # The sentence is "This is my first Python program."
 sentence = "This is my first Python program."
 
+
 print len(sentence)
 
 
@@ -35,6 +36,7 @@ print len(sentence)
 overscan = 0.10 
 width = 1920 
 height = 1080
+
 
 print "The 10% overscan of 1920 is " + str(width * overscan) + " and the 1080 is " + str(height * overscan)
 #Wasn't sure if I was just meant to find the % of the WxH individually. Sorry if I misinterpreted, my fault! 
